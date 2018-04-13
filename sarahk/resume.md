@@ -6,7 +6,7 @@
 Research ICT Africa, Open Web Fellow
 
 #### Contact:
-* **Email**: [aleksandar@mozillafoundation.org](mailto:aleksandar@mozillafoundation.org)
+* **Email**: [sarahk@mozillafoundation.org](mailto:sarahk@mozillafoundation.org)
 * **Twitter**: [@MsKiden](https://twitter.com/MsKiden)
 
 As part of the 2017 Open Web Fellows program, I completed/participated in the following:
