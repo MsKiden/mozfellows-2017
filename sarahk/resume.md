@@ -2,11 +2,11 @@
 * [Affiliation](#affiliation)
 * [Personal Details](#personaldetails)
 * [Contact](#contact)
-* [Events & Talks](#eventstalks)
+* [Events and Talks](#eventsandtalks)
 * [Other Related Events](#otherrelatedevents)
 * [Projects](#projects)
 * [Trainings](#trainings)
-* [Blogs / Interviews](#blogsinterviews)
+* [Blogs and Interviews](#blogsandinterviews)
 
 ### Personal Details:
 
