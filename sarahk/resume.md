@@ -2,7 +2,7 @@
 * [Affiliation](#affiliation)
 * [Personal Details](#personaldetails)
 * [Contact](#contact)
-* [Eventa/Talks](#events/talks)
+* [Events/Talks](#events/talks)
 * [Related Events](#relatedevents)
 * [Projects](#projects)
 * [Trainings](#trainings)
