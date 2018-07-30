@@ -35,7 +35,7 @@ Fellowship Onboarding | Toronto, Canada | September 2017 | Fellow |
 
 #### RELATED EVENTS
 Event | Location | Date | Role |
------ | --------- | ---- |
+----- | --------- | ---- | ---- |
 [Global Editathon: Making Women in Tech Visible](https://www.internetsociety.org/blog/2018/05/global-editathon-making-women-visible-in-ict/) - Internet Society Women Special Interest Group in collaboration with Wikimedia Foundation | Online | 28 April 2018 | Organising Team |
 [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org/) 60 | Abu Dhabi, United Arab Emirates | 31 Oct - 3 Nov 2017 |
 [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org/) 61 | San Juan, Puerto Rico | 10 - 15 March 2018 |
