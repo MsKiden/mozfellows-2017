@@ -34,15 +34,12 @@ Fellowship Offboarding and Ford Foundation Presentation | New York | June 2018 |
 Fellowship Onboarding | Toronto, Canada | September 2017 | Fellow | 
 
 #### RELATED EVENTS
-Event | Location | Date |
+Event | Location | Date | Role |
 ----- | --------- | ---- |
+[Global Editathon: Making Women in Tech Visible](https://www.internetsociety.org/blog/2018/05/global-editathon-making-women-visible-in-ict/) - Internet Society Women Special Interest Group in collaboration with Wikimedia Foundation | Online | 28 April 2018 | Organising Team |
 [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org/) 60 | Abu Dhabi, United Arab Emirates | 31 Oct - 3 Nov 2017 |
 [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org/) 61 | San Juan, Puerto Rico | 10 - 15 March 2018 |
 =======
-[Academic Colloquim by Open Observatory of Network Interference (OONI)](http://www.science.uct.ac.za/event/internet-censorship-measurements) | University of Cape Town, South Africa | February 2018 | Participant
-[Internet Governance Forum, Geneva](http://www.intgovforum.org/) | Geneva, Switzerland | December 17 - 21, 2017 | Panelist | <ul><li>[How Digital activists are shaping the evolution of the Internet: the voice of civil society in ICANN](https://igf2017.sched.com/event/CR5e/how-digital-activists-are-shaping-the-evolution-of-the-internet-the-voice-of-civil-society-in-icann) </li> <li>[Open Source: Defending Freedoms in the Digital Future](https://igf2017.sched.com/event/CTsM/open-source-defending-freedoms-in-the-digital-future-ws8) </li> <li>[Redefining Rights for a Gender Inclusive Networked Future](https://igf2017.sched.com/event/CTt0/redefining-rights-for-a-gender-inclusive-networked-future-ws102)</li></ul>
-[Academic Colloquim by Open Observatory of Network Interference (OONI)](http://www.science.uct.ac.za/event/internet-censorship-measurements) | University of Cape Town, South Africa | February 2018 | Participant | -
-[Internet Governance Forum](http://www.intgovforum.org/) | Geneva, Switzerland | December 17 - 21, 2017 | Panelist | <ul><li>[How Digital activists are shaping the evolution of the Internet: the voice of civil society in ICANN](https://igf2017.sched.com/event/CR5e/how-digital-activists-are-shaping-the-evolution-of-the-internet-the-voice-of-civil-society-in-icann) </li> <li>[Open Source: Defending Freedoms in the Digital Future](https://igf2017.sched.com/event/CTsM/open-source-defending-freedoms-in-the-digital-future-ws8) </li> <li>[Redefining Rights for a Gender Inclusive Networked Future](https://igf2017.sched.com/event/CTt0/redefining-rights-for-a-gender-inclusive-networked-future-ws102)</li></ul>
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
