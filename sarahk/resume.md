@@ -48,12 +48,9 @@ Promoting Child Online Protection in Uganda | |[COP Toolkit](https://internetsoc
 Training | Location | Date | Role
 ----- | -------- | ---- | -----
 [Campus Network Security](https://workshops.renu.ac.ug/2017/renu-muni-cns/) | Arua, Uganda | October 2017 | Facilitator |
+[Introduction to Network Operations](https://www.internetsociety.org/inforum/network-operations/) | Online | June - July 2018 | Moderator |
   
 #### BLOGS / INTERVIEWS
 * [Introducing the 2017 Moz Fellows: Sarah Kiden](https://medium.com/read-write-participate/mozilla-announces-15-new-fellows-for-science-advocacy-and-media-1bff27e97fc7)
 * [Uganda's Sarah Kiden Announced As One Of The 15 New Mozilla Fellows For Science, Advocacy, And Media](https://www.iafrikan.com/2017/09/19/mozilla-announces-15-new-fellows-for-science-advocacy-and-media/)
 * [Speak Up Barometer Research (Uganda)](http://www.dw.com/en/dw-akademie/speakup-barometer/s-42561523) - Project by DW Akademie (Germany)
-
-#### BLOGS
-* [Introducing the 2017 Moz Fellows: Sarah Kiden](https://medium.com/read-write-participate/mozilla-announces-15-new-fellows-for-science-advocacy-and-media-1bff27e97fc7)
-* [Uganda's Sarah Kiden Announced As One Of The 15 New Mozilla Fellows For Science, Advocacy, And Media](https://www.iafrikan.com/2017/09/19/mozilla-announces
