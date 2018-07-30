@@ -19,6 +19,8 @@ As part of the 2017 Open Web Fellows program, I completed/participated in the fo
 
 Event | Location | Date | Role | Panels
 ----- | -------- | ---- | ----- | -----
+[Decolonizing the Internet](https://whoseknowledge.org/decolonizing-the-internet-coming-to-a-conference-near-or-not-so-near-you/) & [Wikimania 2018](https://wikimania2018.wikimedia.org/wiki/Wikimania) | Cape Town, South Africa | July 2018 | Participant |
+Fellowship Offboarding and Ford Foundation Presentation | New York | June 2018 | <ul><li>Fellow <li>Communications Training</ul> |
 [RightsCon](https://www.rightscon.org/) | Toronto, Canada | May 2018 | Panelist | [Global Indigenous Ambassador Program at ICANN: Including new voices to internet policy dialogues](https://rightscon2018.sched.com/event/EHmw/global-indigenous-ambassador-program-at-icann-including-new-voices-to-internet-policy-dialogues) |
 [Africa Internet Summit](https://internetsummit.africa/) | Dakar, Senegal | May 2018 | Panelist/Facilitator | <ol><li> [An investigation into the factors affecting Internet performance in Africa: a throughput, latency, and content hosting analysis](https://researchictafrica.net/2018/05/07/an-investigation-into-the-factors-affecting-internet-performance-in-africa-a-throughput-latency-and-content-hosting-analysis/)</li><li>[Internet Measurements Workshop](https://docs.google.com/document/d/1UOv8SU8nVPDgul3U_hQaKBXV8Mgd94TaEte3s-uApj4/edit#heading=h.m5gk6v6sgdus)
 [Academic Colloquim by Open Observatory of Network Interference (OONI)](http://www.science.uct.ac.za/event/internet-censorship-measurements) | University of Cape Town, South Africa | February 2018 | Participant | -
