@@ -1,12 +1,17 @@
 ## Résumé: Sarah Kiden 
+* [Affiliation](#affiliation)
 * [Personal Details](#personaldetails)
 * [Contact](#contact)
 * [Events & Talks](#events&talks)
+* [Other Related Events](#otherrelatedevents)
+* [Projects](#projects)
+* [Trainings](#trainings)
+* [Blogs / Interviews](#blogs/interviews)
 
 ### Personal Details:
 
 #### Affiliation:
-[Research ICT Africa](https://researchictafrica.net/), Open Web Fellow
+[Research ICT Africa](https://researchictafrica.net/), Ford-Mozilla Open Web Fellow
 
 #### Contact:
 * **Email**: [sarahk@mozillafoundation.org](mailto:sarahk@mozillafoundation.org),  [skiden@gmail.com](mailto:skiden@gmail.com) or [skiden@researchictafrica.net](mailto:researchictafrica.net)
