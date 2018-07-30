@@ -47,6 +47,7 @@ TITLE | TECH USED | LINK | DESCRIPTION
 An investigation into the factors affecting Internet performance in Africa: a throughput, latency, and content hosting analysis | Stata, Spreadsheets; Data from [SpeedChecker](http://www.speedchecker.xyz/) and [Netradar](https://www.netradar.com/) | [Research Results](https://researchictafrica.net/2018/05/07/an-investigation-into-the-factors-affecting-internet-performance-in-africa-a-throughput-latency-and-content-hosting-analysis/)| Research with AFRINIC Engineers |
 Broadband Performance and Internet Measurements | GitHub, CartoDB, SQL, Spreadsheets | [GitHub repo](https://github.com/MsKiden/africa-internet-measurements) | Project under [Mozilla Open Leadership Program 2018](https://mozilla.github.io/leadership-training/) - Cohort 5 (and Cohort C). Project also in the [2018 Global Sprint](https://mozilla.github.io/global-sprint/).
 Quality of Service analysis | Stata, Spreadsheets; Data from [SpeedChecker](http://www.speedchecker.xyz/) and [Netradar](https://www.netradar.com/) | To be updated | Contributed to country reports by writing Quality of Service analysis for 3 countries (Uganda, Nigeria, South Africa) |
+Internet Health Report |  | [Internet Health Report](https://internethealthreport.org) | Contributed to the Mozilla Internet Health Report |
 Promoting Child Online Protection in Uganda | |[COP Toolkit](https://internetsociety.ug/promote-online-child-safety-in-uganda-2/) | Updating the Child Online Protection Toolkit. Also planning to expand the project later this year.|
 
 #### TRAININGS
