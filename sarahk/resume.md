@@ -14,7 +14,7 @@
 [Research ICT Africa](https://researchictafrica.net/), Ford-Mozilla Open Web Fellow
 
 #### Contact:
-* **Email**: [sarahk@mozillafoundation.org](mailto:sarahk@mozillafoundation.org),  [skiden@gmail.com](mailto:skiden@gmail.com) or [skiden@researchictafrica.net](mailto:researchictafrica.net)
+* **Email**: [sarahk(at)mozillafoundation(dot)org](mailto:sarahk@mozillafoundation.org),  [skiden(at)gmail(dot)com](mailto:skiden@gmail.com) or [skiden(at)researchictafrica(dot)net](mailto:researchictafrica.net)
 * **Twitter**: [@MsKiden](https://twitter.com/MsKiden)
 * **GitHub**: [@MsKiden](https://github.com/MsKiden)
 
