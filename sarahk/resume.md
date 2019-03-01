@@ -71,11 +71,11 @@ Training | Location | Date | Role
 
 #### PICTORIAL
 <html>
-  <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/fellowship-onboarding.PNG" width=500 </img>
+  <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/fellowship-onboarding.PNG" width=400 </img>
   <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/m-lab-VintCerf.PNG" width=400 </img>
-  <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/sk-presentation-m-lab.jpg" width=250 </img>
-   <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/ford-presentation.PNG" width=250 </img> 
-   <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/ford-presentation-qa.PNG" width=250 </img> 
-  <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/sk-ais2018.jpg" width=250 </img>
-   <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/table-mountain-cape-town.PNG" width=250 </img>
+  <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/sk-presentation-m-lab.jpg" width=400 </img>
+   <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/ford-presentation.PNG" width=400 </img> 
+   <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/ford-presentation-qa.PNG" width=400 </img> 
+  <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/sk-ais2018.jpg" width=400 </img>
+   <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/table-mountain-cape-town.PNG" width=400 </img>
 </html>
