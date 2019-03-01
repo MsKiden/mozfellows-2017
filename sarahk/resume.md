@@ -40,7 +40,7 @@ Fellowship Onboarding | Toronto, Canada | September 2017 | Fellow |
 #### RELATED EVENTS / PROJECTS
 Event | Location | Date | Role |
 ----- | --------- | ---- | ---- |
-[Africa DNS Forum](https://dnsforum.africa/) | Cotonou, Benin | 3 - 5 July 2018 |
+[Africa DNS Forum](https://dnsforum.africa/) | Cotonou, Benin | 3 - 5 July 2018 | ICANN Africa Strategy Working Group Member |
 [Internet Corporation for Assigned Names and Numbers (ICANN)](https://meetings.icann.org/en/panamacity62) 60 | Panama City, Panama | 25 - 28 June 2018 |
 [Internet Corporation for Assigned Names and Numbers (ICANN)](https://meetings.icann.org/en/sanjuan61) 61 | San Juan, Puerto Rico | 10 - 15 March 2018 |
 [Global Editathon: Making Women in Tech Visible](https://www.internetsociety.org/blog/2018/05/global-editathon-making-women-visible-in-ict/) - Internet Society Women Special Interest Group in collaboration with Wikimedia Foundation | Online | 28 April 2018 | Organising Team |
