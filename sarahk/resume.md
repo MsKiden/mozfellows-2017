@@ -25,7 +25,7 @@ As part of the 2017-2018 Ford-Mozilla Open Web Fellows program, I completed/part
 Event | Location | Date | Role | Panels
 ----- | -------- | ---- | ----- | -----
 [Wikimania 2018](https://wikimania2018.wikimedia.org/wiki/Wikimania) | Cape Town, South Africa | 20 - 22 July 2018 | Participant |
-[Decolonizing the Internet](https://whoseknowledge.org/decolonizing-the-internet-coming-to-a-conference-near-or-not-so-near-you/) by Whose Knowledge? | Cape Town, South Africa | 18 - 19 July 2018 | Participant |
+[Decolonizing the Internet](https://whoseknowledge.org/decolonizing-the-internet-coming-to-a-conference-near-or-not-so-near-you/) organised by Whose Knowledge? | Cape Town, South Africa | 18 - 19 July 2018 | Participant |
 Fellowship Offboarding and Ford Foundation Presentation | New York | June 2018 | <ul><li>Fellow <li>Communications Training</ul> |
 [RightsCon](https://www.rightscon.org/) | Toronto, Canada | May 2018 | Panelist | [Global Indigenous Ambassador Program at ICANN: Including new voices to internet policy dialogues](https://rightscon2018.sched.com/event/EHmw/global-indigenous-ambassador-program-at-icann-including-new-voices-to-internet-policy-dialogues) |
 [TechWomen Summit 2018](http://www.afchix.org/event/afchix-techwomen-summit-2018/)(along side Africa Internet Summit) | Dakar, Senegal | 5 May 2018 | Participant | |
