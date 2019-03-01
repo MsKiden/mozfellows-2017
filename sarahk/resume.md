@@ -22,9 +22,13 @@ As part of the 2017-2018 Ford-Mozilla Open Web Fellows program, I completed/part
 
 #### EVENTS and TALKS
 
-Event | Location | Date | Role | Panels
------ | -------- | ---- | ----- | -----
-[Measurement Lab 10th Anniversary](https://www.newamerica.org/oti/events/measurement-lab-10th-anniversary/) | Washington, DC, USA | 7 -9 August 2018 | Panelist | [Internet Performance in Africa](https://www.newamerica.org/oti/measurement-lab-agenda/) | 
+Event | Location | Date | Role | Panels | Pictorial |
+----- | -------- | ---- | ----- | ----- | ----- |
+[Measurement Lab 10th Anniversary](https://www.newamerica.org/oti/events/measurement-lab-10th-anniversary/) | Washington, DC, USA | 7 -9 August 2018 | Panelist | [Internet Performance in Africa](https://www.newamerica.org/oti/measurement-lab-agenda/) |<html>
+  <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/sk-presentation-m-lab.jpg"
+    width=50
+  </img>
+</html> |
 [Wikimania 2018](https://wikimania2018.wikimedia.org/wiki/Wikimania) | Cape Town, South Africa | 20 - 22 July 2018 | Participant |
 [Decolonizing the Internet](https://whoseknowledge.org/decolonizing-the-internet-coming-to-a-conference-near-or-not-so-near-you/) organised by Whose Knowledge? | Cape Town, South Africa | 18 - 19 July 2018 | Participant |
 Fellowship Offboarding and Ford Foundation Presentation | New York | June 2018 | <ul><li>Fellow <li>Communications Training</ul> |
