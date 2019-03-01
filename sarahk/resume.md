@@ -71,7 +71,7 @@ Training | Location | Date | Role
 
 #### PICTORIAL
 <html>
-  <div style="width:image width px; text-align:center;"><img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/fellowship-onboarding.PNG" alt="alternate text" width=400 style="padding-bottom:0.5em;" /><i> Fellowship Onboarding, September 2017, Toronto, Canada</i></img></div>
+  <div style="width:image width px; text-align:center;"><img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/fellowship-onboarding.PNG" alt="alternate text" width=400 style="padding-bottom:0.5em;" /><br><i> Fellowship Onboarding, September 2017, Toronto, Canada</i></img></div>
   <br><br>
     <div style="width:image width px; font-size:40%; text-align:center;"><img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/m-lab-VintCerf.PNG" alt="alternate text" width=400 style="padding-bottom:0.5em;" /> <i>With Vint Cert at M-Lab 10th Anniversary, August 2018, Washington, DC</i></img></div>  <br><br>
     <div style="width:image width px; font-size:40%; text-align:center;"><img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/sk-presentation-m-lab.jpg" alt="alternate text" width=400 style="padding-bottom:0.5em;" /><i>Presentation at M-Lab 10th Anniversary, August 2018, Washington, DC</i></img></div>  <br><br>
