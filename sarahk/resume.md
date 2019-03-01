@@ -71,11 +71,12 @@ Training | Location | Date | Role
 
 #### PICTORIAL
 <html>
-  <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/fellowship-onboarding.PNG" width=400 </img>
-  <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/m-lab-VintCerf.PNG" width=400 </img>
-  <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/sk-presentation-m-lab.jpg" width=400 </img>
-   <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/ford-presentation.PNG" width=400 </img> 
-   <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/ford-presentation-qa.PNG" width=400 </img> 
-  <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/sk-ais2018.jpg" width=400 </img>
-   <img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/table-mountain-cape-town.PNG" width=400 </img>
+  <div style="width:image width px; text-align:center;"><img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/fellowship-onboarding.PNG" alt="alternate text" width=400 style="padding-bottom:0.5em;" /><i> Fellowship Onboarding, September 2017, Toronto, Canada</i></img></div>
+  <br><br>
+    <div style="width:image width px; font-size:40%; text-align:center;"><img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/m-lab-VintCerf.PNG" alt="alternate text" width=400 style="padding-bottom:0.5em;" /> <i>With Vint Cert at M-Lab 10th Anniversary, August 2018, Washington, DC</i></img></div>
+    <div style="width:image width px; font-size:40%; text-align:center;"><img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/sk-presentation-m-lab.jpg" alt="alternate text" width=400 style="padding-bottom:0.5em;" /><i>Presentation at M-Lab 10th Anniversary, August 2018, Washington, DC</i></img></div>
+<div style="width:image width px; font-size:40%; text-align:center;"><img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/ford-presentation.PNG" alt="alternate text" width=400 style="padding-bottom:0.5em;" /><i>Offboarding at Ford Foundation, June 2018, New York</i></img></div>
+  <div style="width:image width px; font-size:40%; text-align:center;"><img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/ford-presentation-qa.PNG" alt="alternate text" width=400 style="padding-bottom:0.5em;" /> <i> Offboarding at Ford Foundation, June 2018, New York</i></img></div>
+  <div style="width:image width px; font-size:40%; text-align:center;"><img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/sk-ais2018.jpg" alt="alternate text" width=400 style="padding-bottom:0.5em;" /><i> Presentation at Africa Internet Summit, May 2018, Dakar, Senegal</i></img></div>
+  <div style="width:image width px; font-size:40%; text-align:center;"><img src="https://github.com/MsKiden/mozfellows-2017/blob/master/sarahk/images/table-mountain-cape-town.PNG" alt="alternate text" width=400 style="padding-bottom:0.5em;" /> <i> Cape Town Sightseeing, DC</img></i></div>
 </html>
